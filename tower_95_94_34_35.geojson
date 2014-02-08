@@ -1,0 +1,150 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 73, "properties": { "cell_id": "4419", "cdma_cell_lon": -93.7368055556, "cdma_cell_lat": 34.238819444400001, "count": "2", "gid": 1 }, "geometry": { "type": "Point", "coordinates": [ -93.7368055556, 34.238819444400001 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "cell_id": "4457", "cdma_cell_lon": -94.311180555600004, "cdma_cell_lat": 34.156111111100003, "count": "2", "gid": 2 }, "geometry": { "type": "Point", "coordinates": [ -94.311180555600004, 34.156111111100003 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "cell_id": "3387", "cdma_cell_lon": -93.060902777799996, "cdma_cell_lat": 34.47375, "count": "2", "gid": 3 }, "geometry": { "type": "Point", "coordinates": [ -93.060902777799996, 34.47375 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "cell_id": "4521", "cdma_cell_lon": -94.208055555599998, "cdma_cell_lat": 34.585347222199999, "count": "2", "gid": 4 }, "geometry": { "type": "Point", "coordinates": [ -94.208055555599998, 34.585347222199999 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "cell_id": "2027", "cdma_cell_lon": -93.083263888900007, "cdma_cell_lat": 34.505138888899999, "count": "2", "gid": 5 }, "geometry": { "type": "Point", "coordinates": [ -93.083263888900007, 34.505138888899999 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "cell_id": "1337", "cdma_cell_lon": -93.9429166667, "cdma_cell_lat": 34.690902777799998, "count": "2", "gid": 6 }, "geometry": { "type": "Point", "coordinates": [ -93.9429166667, 34.690902777799998 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "cell_id": "5377", "cdma_cell_lon": -94.725555555599996, "cdma_cell_lat": 34.043611111099999, "count": "2", "gid": 7 }, "geometry": { "type": "Point", "coordinates": [ -94.725555555599996, 34.043611111099999 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "cell_id": "23003", "cdma_cell_lon": -93.013263888899999, "cdma_cell_lat": 34.5186111111, "count": "2", "gid": 8 }, "geometry": { "type": "Point", "coordinates": [ -93.013263888899999, 34.5186111111 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "cell_id": "2171", "cdma_cell_lon": -93.050902777800005, "cdma_cell_lat": 34.6904861111, "count": "2", "gid": 9 }, "geometry": { "type": "Point", "coordinates": [ -93.050902777800005, 34.6904861111 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "cell_id": "2025", "cdma_cell_lon": -93.083263888900007, "cdma_cell_lat": 34.505138888899999, "count": "2", "gid": 10 }, "geometry": { "type": "Point", "coordinates": [ -93.083263888900007, 34.505138888899999 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "cell_id": "2913", "cdma_cell_lon": -93.120902777799998, "cdma_cell_lat": 34.40375, "count": "2", "gid": 11 }, "geometry": { "type": "Point", "coordinates": [ -93.120902777799998, 34.40375 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "cell_id": "4577", "cdma_cell_lon": -93.938611111100002, "cdma_cell_lat": 34.209305555599997, "count": "2", "gid": 12 }, "geometry": { "type": "Point", "coordinates": [ -93.938611111100002, 34.209305555599997 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "cell_id": "3002", "cdma_cell_lon": -93.069722222199999, "cdma_cell_lat": 34.188333333300001, "count": "2", "gid": 13 }, "geometry": { "type": "Point", "coordinates": [ -93.069722222199999, 34.188333333300001 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "cell_id": "4473", "cdma_cell_lon": -94.294097222199994, "cdma_cell_lat": 34.226805555600002, "count": "2", "gid": 14 }, "geometry": { "type": "Point", "coordinates": [ -94.294097222199994, 34.226805555600002 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "cell_id": "1578", "cdma_cell_lon": -93.025416666699996, "cdma_cell_lat": 34.472708333299998, "count": "2", "gid": 15 }, "geometry": { "type": "Point", "coordinates": [ -93.025416666699996, 34.472708333299998 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "cell_id": "4491", "cdma_cell_lon": -93.642916666700003, "cdma_cell_lat": 34.2635416667, "count": "2", "gid": 16 }, "geometry": { "type": "Point", "coordinates": [ -93.642916666700003, 34.2635416667 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "cell_id": "2194", "cdma_cell_lon": -93.067777777800003, "cdma_cell_lat": 34.455833333299999, "count": "2", "gid": 17 }, "geometry": { "type": "Point", "coordinates": [ -93.067777777800003, 34.455833333299999 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "cell_id": "4633", "cdma_cell_lon": -94.416527777799999, "cdma_cell_lat": 34.346041666700003, "count": "2", "gid": 18 }, "geometry": { "type": "Point", "coordinates": [ -94.416527777799999, 34.346041666700003 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "cell_id": "21377", "cdma_cell_lon": -94.725555555599996, "cdma_cell_lat": 34.043611111099999, "count": "2", "gid": 19 }, "geometry": { "type": "Point", "coordinates": [ -94.725555555599996, 34.043611111099999 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "cell_id": "4514", "cdma_cell_lon": -94.244305555599993, "cdma_cell_lat": 34.596041666700003, "count": "2", "gid": 20 }, "geometry": { "type": "Point", "coordinates": [ -94.244305555599993, 34.596041666700003 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "cell_id": "4634", "cdma_cell_lon": -94.416527777799999, "cdma_cell_lat": 34.346041666700003, "count": "2", "gid": 21 }, "geometry": { "type": "Point", "coordinates": [ -94.416527777799999, 34.346041666700003 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "cell_id": "21889", "cdma_cell_lon": -94.740555555599997, "cdma_cell_lat": 34.016111111100003, "count": "2", "gid": 22 }, "geometry": { "type": "Point", "coordinates": [ -94.740555555599997, 34.016111111100003 ] } }
+,
+{ "type": "Feature", "id": 65537, "properties": { "cell_id": "1577", "cdma_cell_lon": -93.025416666699996, "cdma_cell_lat": 34.472708333299998, "count": "2", "gid": 23 }, "geometry": { "type": "Point", "coordinates": [ -93.025416666699996, 34.472708333299998 ] } }
+,
+{ "type": "Feature", "id": 65538, "properties": { "cell_id": "3193", "cdma_cell_lon": -93.219027777799994, "cdma_cell_lat": 34.507777777800001, "count": "2", "gid": 24 }, "geometry": { "type": "Point", "coordinates": [ -93.219027777799994, 34.507777777800001 ] } }
+,
+{ "type": "Feature", "id": 65539, "properties": { "cell_id": "4025", "cdma_cell_lon": -93.569444444400006, "cdma_cell_lat": 34.318611111099997, "count": "2", "gid": 25 }, "geometry": { "type": "Point", "coordinates": [ -93.569444444400006, 34.318611111099997 ] } }
+,
+{ "type": "Feature", "id": 65540, "properties": { "cell_id": "2169", "cdma_cell_lon": -93.050902777800005, "cdma_cell_lat": 34.6904861111, "count": "2", "gid": 26 }, "geometry": { "type": "Point", "coordinates": [ -93.050902777800005, 34.6904861111 ] } }
+,
+{ "type": "Feature", "id": 65541, "properties": { "cell_id": "4523", "cdma_cell_lon": -94.208055555599998, "cdma_cell_lat": 34.585347222199999, "count": "2", "gid": 27 }, "geometry": { "type": "Point", "coordinates": [ -94.208055555599998, 34.585347222199999 ] } }
+,
+{ "type": "Feature", "id": 65542, "properties": { "cell_id": "5378", "cdma_cell_lon": -94.725555555599996, "cdma_cell_lat": 34.043611111099999, "count": "2", "gid": 28 }, "geometry": { "type": "Point", "coordinates": [ -94.725555555599996, 34.043611111099999 ] } }
+,
+{ "type": "Feature", "id": 65543, "properties": { "cell_id": "4489", "cdma_cell_lon": -93.642916666700003, "cdma_cell_lat": 34.2635416667, "count": "2", "gid": 29 }, "geometry": { "type": "Point", "coordinates": [ -93.642916666700003, 34.2635416667 ] } }
+,
+{ "type": "Feature", "id": 65544, "properties": { "cell_id": "21378", "cdma_cell_lon": -94.725555555599996, "cdma_cell_lat": 34.043611111099999, "count": "2", "gid": 30 }, "geometry": { "type": "Point", "coordinates": [ -94.725555555599996, 34.043611111099999 ] } }
+,
+{ "type": "Feature", "id": 65545, "properties": { "cell_id": "3386", "cdma_cell_lon": -93.060902777799996, "cdma_cell_lat": 34.47375, "count": "2", "gid": 31 }, "geometry": { "type": "Point", "coordinates": [ -93.060902777799996, 34.47375 ] } }
+,
+{ "type": "Feature", "id": 65546, "properties": { "cell_id": "1579", "cdma_cell_lon": -93.025416666699996, "cdma_cell_lat": 34.472708333299998, "count": "1", "gid": 32 }, "geometry": { "type": "Point", "coordinates": [ -93.025416666699996, 34.472708333299998 ] } }
+,
+{ "type": "Feature", "id": 65547, "properties": { "cell_id": "4065", "cdma_cell_lon": -93.112777777800005, "cdma_cell_lat": 34.485, "count": "1", "gid": 33 }, "geometry": { "type": "Point", "coordinates": [ -93.112777777800005, 34.485 ] } }
+,
+{ "type": "Feature", "id": 65548, "properties": { "cell_id": "2257", "cdma_cell_lon": -93.43375, "cdma_cell_lat": 34.535625, "count": "1", "gid": 34 }, "geometry": { "type": "Point", "coordinates": [ -93.43375, 34.535625 ] } }
+,
+{ "type": "Feature", "id": 65549, "properties": { "cell_id": "4179", "cdma_cell_lon": -93.145138888899993, "cdma_cell_lat": 34.445763888899997, "count": "1", "gid": 35 }, "geometry": { "type": "Point", "coordinates": [ -93.145138888899993, 34.445763888899997 ] } }
+,
+{ "type": "Feature", "id": 65550, "properties": { "cell_id": "4579", "cdma_cell_lon": -93.938611111100002, "cdma_cell_lat": 34.209305555599997, "count": "1", "gid": 36 }, "geometry": { "type": "Point", "coordinates": [ -93.938611111100002, 34.209305555599997 ] } }
+,
+{ "type": "Feature", "id": 65551, "properties": { "cell_id": "4673", "cdma_cell_lon": -94.025069444400003, "cdma_cell_lat": 34.170069444399999, "count": "1", "gid": 37 }, "geometry": { "type": "Point", "coordinates": [ -94.025069444400003, 34.170069444399999 ] } }
+,
+{ "type": "Feature", "id": 65552, "properties": { "cell_id": "61113", "cdma_cell_lon": -93.187013888899997, "cdma_cell_lat": 34.02125, "count": "1", "gid": 38 }, "geometry": { "type": "Point", "coordinates": [ -93.187013888899997, 34.02125 ] } }
+,
+{ "type": "Feature", "id": 65553, "properties": { "cell_id": "22907", "cdma_cell_lon": -93.057569444400002, "cdma_cell_lat": 34.487777777799998, "count": "1", "gid": 39 }, "geometry": { "type": "Point", "coordinates": [ -93.057569444400002, 34.487777777799998 ] } }
+,
+{ "type": "Feature", "id": 65554, "properties": { "cell_id": "4490", "cdma_cell_lon": -93.642916666700003, "cdma_cell_lat": 34.2635416667, "count": "1", "gid": 40 }, "geometry": { "type": "Point", "coordinates": [ -93.642916666700003, 34.2635416667 ] } }
+,
+{ "type": "Feature", "id": 65555, "properties": { "cell_id": "2915", "cdma_cell_lon": -93.120902777799998, "cdma_cell_lat": 34.40375, "count": "1", "gid": 41 }, "geometry": { "type": "Point", "coordinates": [ -93.120902777799998, 34.40375 ] } }
+,
+{ "type": "Feature", "id": 65556, "properties": { "cell_id": "3202", "cdma_cell_lon": -93.024027777800001, "cdma_cell_lat": 34.563333333300001, "count": "1", "gid": 42 }, "geometry": { "type": "Point", "coordinates": [ -93.024027777800001, 34.563333333300001 ] } }
+,
+{ "type": "Feature", "id": 65557, "properties": { "cell_id": "2914", "cdma_cell_lon": -93.120902777799998, "cdma_cell_lat": 34.40375, "count": "1", "gid": 43 }, "geometry": { "type": "Point", "coordinates": [ -93.120902777799998, 34.40375 ] } }
+,
+{ "type": "Feature", "id": 65558, "properties": { "cell_id": "2195", "cdma_cell_lon": -93.067777777800003, "cdma_cell_lat": 34.455833333299999, "count": "1", "gid": 44 }, "geometry": { "type": "Point", "coordinates": [ -93.067777777800003, 34.455833333299999 ] } }
+,
+{ "type": "Feature", "id": 65559, "properties": { "cell_id": "22809", "cdma_cell_lon": -93.118819444400003, "cdma_cell_lat": 34.529375, "count": "1", "gid": 45 }, "geometry": { "type": "Point", "coordinates": [ -93.118819444400003, 34.529375 ] } }
+,
+{ "type": "Feature", "id": 65560, "properties": { "cell_id": "22906", "cdma_cell_lon": -93.031319444399998, "cdma_cell_lat": 34.473958333299997, "count": "1", "gid": 46 }, "geometry": { "type": "Point", "coordinates": [ -93.031319444399998, 34.473958333299997 ] } }
+,
+{ "type": "Feature", "id": 65561, "properties": { "cell_id": "22922", "cdma_cell_lon": -93.043402777799997, "cdma_cell_lat": 34.505, "count": "1", "gid": 47 }, "geometry": { "type": "Point", "coordinates": [ -93.043402777799997, 34.505 ] } }
+,
+{ "type": "Feature", "id": 65562, "properties": { "cell_id": "4450", "cdma_cell_lon": -94.176180555599998, "cdma_cell_lat": 34.049652777799999, "count": "1", "gid": 48 }, "geometry": { "type": "Point", "coordinates": [ -94.176180555599998, 34.049652777799999 ] } }
+,
+{ "type": "Feature", "id": 65563, "properties": { "cell_id": "3115", "cdma_cell_lon": -93.059097222199995, "cdma_cell_lat": 34.4904166667, "count": "1", "gid": 49 }, "geometry": { "type": "Point", "coordinates": [ -93.059097222199995, 34.4904166667 ] } }
+,
+{ "type": "Feature", "id": 65564, "properties": { "cell_id": "3203", "cdma_cell_lon": -93.024027777800001, "cdma_cell_lat": 34.563333333300001, "count": "1", "gid": 50 }, "geometry": { "type": "Point", "coordinates": [ -93.024027777800001, 34.563333333300001 ] } }
+,
+{ "type": "Feature", "id": 65565, "properties": { "cell_id": "4178", "cdma_cell_lon": -93.145138888899993, "cdma_cell_lat": 34.445763888899997, "count": "1", "gid": 51 }, "geometry": { "type": "Point", "coordinates": [ -93.145138888899993, 34.445763888899997 ] } }
+,
+{ "type": "Feature", "id": 65566, "properties": { "cell_id": "4449", "cdma_cell_lon": -94.176180555599998, "cdma_cell_lat": 34.049652777799999, "count": "1", "gid": 52 }, "geometry": { "type": "Point", "coordinates": [ -94.176180555599998, 34.049652777799999 ] } }
+,
+{ "type": "Feature", "id": 65567, "properties": { "cell_id": "4067", "cdma_cell_lon": -93.112777777800005, "cdma_cell_lat": 34.485, "count": "1", "gid": 53 }, "geometry": { "type": "Point", "coordinates": [ -93.112777777800005, 34.485 ] } }
+,
+{ "type": "Feature", "id": 65568, "properties": { "cell_id": "22873", "cdma_cell_lon": -93.053541666699999, "cdma_cell_lat": 34.468333333300002, "count": "1", "gid": 54 }, "geometry": { "type": "Point", "coordinates": [ -93.053541666699999, 34.468333333300002 ] } }
+,
+{ "type": "Feature", "id": 65569, "properties": { "cell_id": "1322", "cdma_cell_lon": -93.039444444400004, "cdma_cell_lat": 34.5170833333, "count": "1", "gid": 55 }, "geometry": { "type": "Point", "coordinates": [ -93.039444444400004, 34.5170833333 ] } }
+,
+{ "type": "Feature", "id": 65570, "properties": { "cell_id": "1321", "cdma_cell_lon": -93.039444444400004, "cdma_cell_lat": 34.5170833333, "count": "1", "gid": 56 }, "geometry": { "type": "Point", "coordinates": [ -93.039444444400004, 34.5170833333 ] } }
+,
+{ "type": "Feature", "id": 65571, "properties": { "cell_id": "1209", "cdma_cell_lon": -93.058819444400001, "cdma_cell_lat": 34.6502083333, "count": "1", "gid": 57 }, "geometry": { "type": "Point", "coordinates": [ -93.058819444400001, 34.6502083333 ] } }
+,
+{ "type": "Feature", "id": 65572, "properties": { "cell_id": "4435", "cdma_cell_lon": -94.348541666700001, "cdma_cell_lat": 34.057222222199997, "count": "1", "gid": 58 }, "geometry": { "type": "Point", "coordinates": [ -94.348541666700001, 34.057222222199997 ] } }
+,
+{ "type": "Feature", "id": 65573, "properties": { "cell_id": "1210", "cdma_cell_lon": -93.058819444400001, "cdma_cell_lat": 34.6502083333, "count": "1", "gid": 59 }, "geometry": { "type": "Point", "coordinates": [ -93.058819444400001, 34.6502083333 ] } }
+,
+{ "type": "Feature", "id": 65574, "properties": { "cell_id": "4578", "cdma_cell_lon": -93.938611111100002, "cdma_cell_lat": 34.209305555599997, "count": "1", "gid": 60 }, "geometry": { "type": "Point", "coordinates": [ -93.938611111100002, 34.209305555599997 ] } }
+,
+{ "type": "Feature", "id": 65575, "properties": { "cell_id": "1211", "cdma_cell_lon": -93.058819444400001, "cdma_cell_lat": 34.6502083333, "count": "1", "gid": 61 }, "geometry": { "type": "Point", "coordinates": [ -93.058819444400001, 34.6502083333 ] } }
+,
+{ "type": "Feature", "id": 65576, "properties": { "cell_id": "4483", "cdma_cell_lon": -94.346666666700003, "cdma_cell_lat": 34.491597222199999, "count": "1", "gid": 62 }, "geometry": { "type": "Point", "coordinates": [ -94.346666666700003, 34.491597222199999 ] } }
+,
+{ "type": "Feature", "id": 65577, "properties": { "cell_id": "4177", "cdma_cell_lon": -93.145138888899993, "cdma_cell_lat": 34.445763888899997, "count": "1", "gid": 63 }, "geometry": { "type": "Point", "coordinates": [ -93.145138888899993, 34.445763888899997 ] } }
+,
+{ "type": "Feature", "id": 65578, "properties": { "cell_id": "22747", "cdma_cell_lon": -93.196666666699997, "cdma_cell_lat": 34.244166666700004, "count": "1", "gid": 64 }, "geometry": { "type": "Point", "coordinates": [ -93.196666666699997, 34.244166666700004 ] } }
+,
+{ "type": "Feature", "id": 65579, "properties": { "cell_id": "21651", "cdma_cell_lon": -94.838888888900001, "cdma_cell_lat": 34.066944444400001, "count": "1", "gid": 65 }, "geometry": { "type": "Point", "coordinates": [ -94.838888888900001, 34.066944444400001 ] } }
+,
+{ "type": "Feature", "id": 65580, "properties": { "cell_id": "4513", "cdma_cell_lon": -94.244305555599993, "cdma_cell_lat": 34.596041666700003, "count": "1", "gid": 66 }, "geometry": { "type": "Point", "coordinates": [ -94.244305555599993, 34.596041666700003 ] } }
+,
+{ "type": "Feature", "id": 65581, "properties": { "cell_id": "4434", "cdma_cell_lon": -94.348541666700001, "cdma_cell_lat": 34.057222222199997, "count": "1", "gid": 67 }, "geometry": { "type": "Point", "coordinates": [ -94.348541666700001, 34.057222222199997 ] } }
+,
+{ "type": "Feature", "id": 65582, "properties": { "cell_id": "2193", "cdma_cell_lon": -93.067777777800003, "cdma_cell_lat": 34.455833333299999, "count": "1", "gid": 68 }, "geometry": { "type": "Point", "coordinates": [ -93.067777777800003, 34.455833333299999 ] } }
+,
+{ "type": "Feature", "id": 65583, "properties": { "cell_id": "4482", "cdma_cell_lon": -94.346666666700003, "cdma_cell_lat": 34.491597222199999, "count": "1", "gid": 69 }, "geometry": { "type": "Point", "coordinates": [ -94.346666666700003, 34.491597222199999 ] } }
+,
+{ "type": "Feature", "id": 65584, "properties": { "cell_id": "4481", "cdma_cell_lon": -94.346666666700003, "cdma_cell_lat": 34.491597222199999, "count": "1", "gid": 70 }, "geometry": { "type": "Point", "coordinates": [ -94.346666666700003, 34.491597222199999 ] } }
+,
+{ "type": "Feature", "id": 65585, "properties": { "cell_id": "3113", "cdma_cell_lon": -93.059097222199995, "cdma_cell_lat": 34.4904166667, "count": "1", "gid": 71 }, "geometry": { "type": "Point", "coordinates": [ -93.059097222199995, 34.4904166667 ] } }
+,
+{ "type": "Feature", "id": 65586, "properties": { "cell_id": "3114", "cdma_cell_lon": -93.059097222199995, "cdma_cell_lat": 34.4904166667, "count": "1", "gid": 72 }, "geometry": { "type": "Point", "coordinates": [ -93.059097222199995, 34.4904166667 ] } }
+
+]
+}
